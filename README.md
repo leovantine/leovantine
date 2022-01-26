@@ -1,4 +1,4 @@
-### Hey! I'm Leonardo Vantine
+### Hey! I'm Leonardo Vantine ⚡️
 
 - 🔭 I don't work yet, just study
 - 🌱 I’m currently learning JavaScript
